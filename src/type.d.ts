@@ -14,3 +14,4 @@ interface IArticle {
   }
   
   type DispatchType = (args: ArticleAction) => ArticleAction
+  
